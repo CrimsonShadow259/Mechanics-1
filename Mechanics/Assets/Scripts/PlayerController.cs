@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRb;
-    public float speed = 5.0f;
+    public float speed = 1.0f;
     private GameObject focalPoint;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
